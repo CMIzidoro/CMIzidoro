@@ -1,4 +1,4 @@
-### Hi! i am cassio 
+# Hi! i am cassio 
 - 💻 Today I work with Front-end
 - 🌱 I’m currently learning Angular and Intellij
 - 📫 How to reach me: cassiomartinez2@gmail.com
