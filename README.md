@@ -1,4 +1,4 @@
-# Hi! i am cassio 
+# Hi! i am Cassio 
 - 💻 Today I work with Front-end
 - 🌱 I’m currently learning Angular and Intellij
 - 📫 How to reach me: cassiomartinez2@gmail.com
@@ -18,10 +18,11 @@
   <img align="center" alt="Cassio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cassio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img align="right" alt="Cassio-yoda" height="200" width="200" src="https://share-cdn.picrew.me/shareImg/org/202108/11407_YCWScnXc.png">
-</div>
-  
+  <img align="right" alt="Cassio-yoda"  src="https://i.imgur.com/SU8J5Ta.gif">
+
   #
+  </div>
+ 
   <div> 
 
   <a href="https://instagram.com/cassio.mart" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
