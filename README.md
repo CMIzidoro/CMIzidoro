@@ -2,7 +2,7 @@
 - 💻 Today I work with Front-end
 - 🌱 I’m currently learning Angular 
 - 📫 How to reach me: cassiomartinez2@gmail.com
-- 🎧 Favorite song METE UM BLOCK NELE - João Gomesr 🌵🕺👨‍🌾
+- 🎧 Favorite song Yung buda - Monstro
 
 
 <div>
