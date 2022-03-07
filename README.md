@@ -1,5 +1,5 @@
 # Hi! i am < Cassio />
-- 💻 Today I work with Front-end
+- 💻 Today I work with Back-end
 - 🌱 I’m currently learning Angular 
 - 📫 How to reach me: cassiomartinez2@gmail.com
 - 🎧 Favorite song Yung buda - Monstro
