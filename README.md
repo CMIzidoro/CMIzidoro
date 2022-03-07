@@ -1,8 +1,8 @@
 # Hi! i am < Cassio />
 - 💻 Today I work with Back-end
-- 🌱 I’m currently learning Angular 
+- 🌱 I’m currently Spring and Java 
 - 📫 How to reach me: cassiomartinez2@gmail.com
-- 🎧 Favorite song Yung buda - Monstro
+- 🎧 Favorite song 20minutos- Veigh 
 
 
 <div>
