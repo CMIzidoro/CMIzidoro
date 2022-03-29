@@ -2,7 +2,7 @@
 - 💻 Today I work with Back-end
 - 🌱 I’m currently Spring and Java 
 - 📫 How to reach me: cassiomartinez2@gmail.com
-- 🎧 Favorite song 20minutos- Veigh 
+- 🎧 Favorite song Lucid Dreams Juice WRLD ⚰️ (Descanse em paz meu Casa)
 
 
 <div>
