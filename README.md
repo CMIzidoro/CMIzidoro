@@ -2,7 +2,7 @@
 - 💻 Today I work with Back-end
 - 🌱 I’m currently Spring and Java 
 - 📫 How to reach me: cassiomartinez2@gmail.com
-- 🎧 Favorite song Lucid Dreams Juice WRLD ⚰️ (Descanse em paz meu Casa)
+- 🎧 Favorite song Oi, Como Cê Tá? Vulgo FK
 
 
 <div>
