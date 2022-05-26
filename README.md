@@ -18,7 +18,7 @@
   <img align="center" alt="Cassio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cassio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img align="right" alt="Cassio-yoda"  src="https://i.imgur.com/SU8J5Ta.gif">
+  <img align="right" alt="Cassio"  src="https://i.imgur.com/SU8J5Ta.gif">
 
   #
   </div>
