@@ -1,8 +1,8 @@
-# Hi! i am < Cassio />
-- 💻 Today I work with Back-end
-- 🌱 I’m currently Spring and Java 
+# Hi! i am Cassio 
+- 💻 Today I work with Front-end
+- 🌱 I’m currently learning Angular and Intellij
 - 📫 How to reach me: cassiomartinez2@gmail.com
-- 🎧 Favorite song Tropa do Bruxo - "Na Área dos Boys"
+- 🎧 Favorite song Senhor do Tempo - Charlie Brown Jr 🛹
 
 
 <div>
@@ -18,8 +18,7 @@
   <img align="center" alt="Cassio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cassio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <iframe src="https://giphy.com/embed/lZZwR5gvWDYdFcGNf7" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lZZwR5gvWDYdFcGNf7"></a></p>
-
+  <img align="right" alt="Cassio-yoda"  src="https://i.imgur.com/SU8J5Ta.gif">
 
   #
   </div>
