@@ -18,7 +18,7 @@
   <img align="center" alt="Cassio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cassio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <iframe src="https://giphy.com/embed/lZZwR5gvWDYdFcGNf7" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lZZwR5gvWDYdFcGNf7">via GIPHY</a></p>
+  <iframe src="https://giphy.com/embed/lZZwR5gvWDYdFcGNf7" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lZZwR5gvWDYdFcGNf7"></a></p>
 
 
   #
